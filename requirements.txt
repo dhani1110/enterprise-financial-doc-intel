@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+langchain
+chromadb
+pgvector
+psycopg2-binary
+sqlalchemy
+python-multipart
+streamlit
+python-dotenv
+openai
+tqdm
+requests
+pdfminer.six
